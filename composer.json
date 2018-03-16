@@ -1,5 +1,5 @@
 {
-    "name": "miome/iso8583",
+    "name": "AdminOfLife/iso8583",
     "description": "ISO8583 Pack/Unpack library",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/m1ome/iso8583"
+            "url": "https://github.com/AdminOfLife/iso8583/
         }
     ],
     "require": {
