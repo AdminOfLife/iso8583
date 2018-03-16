@@ -56,7 +56,7 @@
     },
     "12": {
         "type": "n",
-        "length": "6",
+        "length": "12",
         "description": "Time, local transaction (hhmmss)"
     },
     "13": {
@@ -106,7 +106,7 @@
     },
     "22": {
         "type": "an",
-        "length": "4",
+        "length": "3",
         "description": "Point of service entry mode"
     },
     "23": {
@@ -176,7 +176,7 @@
     },
     "39": {
         "type": "an",
-        "length": "2",
+        "length": "3",
         "description": "Response code"
     },
     "40": {
